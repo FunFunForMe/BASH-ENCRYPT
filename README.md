@@ -4,9 +4,10 @@ BASH-ENCRYPT in tool for Encrypt bash script/shell but you can use bash script/s
 
 need:<br>
 ```
-sudo apt install lolcat
+$ sudo apt install lolcat
 ```
 usage:
 ```
-bash paker-bash.sh
+$ chmod +x paker-bash.sh
+$ ./paker-bash
 ```
